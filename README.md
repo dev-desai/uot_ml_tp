@@ -9,5 +9,5 @@ I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial
 
 ### Notebooks
 
-- Data Set Analysis - this notebook contains a comprehensive analysis of the dataset. It will also contain function to load, scrub and save the scrubbed data as an input for the machine learning notebooks
+- Data Set Analysis - this notebook contains a comprehensive analysis of the dataset. It will also contain functions to load, scrub and save the scrubbed data as an input for the machine learning notebooks
 
