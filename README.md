@@ -10,5 +10,5 @@ I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial
 ### Notebooks
 
 - Data Set Analysis - this notebook contains a comprehensive analysis of the dataset. It will also contain functions to load, scrub and save the scrubbed data as an input for the machine learning notebooks
-
-- K Neighbors Regression contains evaluation of KNN based predictions.
+- K Neighbors Regression notebook evaluates the use of KNN models for prediction.
+- Random Forests Regression notebook evaluates the use of Random Forests to predict concrete strength.
